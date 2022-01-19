@@ -1,0 +1,15 @@
+.cards img{
+        border-radius: 11px;
+}
+.cards p{
+    color:white;
+    font-family: proximaNova;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.cards:hover{
+    transform: translateY(-20px);
+    transition: all 0.5s;
+    cursor: pointer;
+    box-sizing: border-box;
+}

@@ -4,9 +4,12 @@ import { Navbar } from './components/Navbar';
 import MultipleItems from "./components/BestOf2021"
 function App() {
   return (
-    <div>
+    <div style={{padding:"0px",margin:"0px",boxSizing:"border-box"}}>
       <Navbar />
       <SimpleSlider />
+      < MultipleItems />
+      < MultipleItems />
+      < MultipleItems />
       < MultipleItems />
     </div>
   );
