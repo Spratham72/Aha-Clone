@@ -1,10 +1,12 @@
 import './App.css';
-import { Aha_Original } from './components/aha_Originals';
+import { AhaOriginal } from './components/AhaOriginal';
+import CustomArrows from './components/Check';
 
 function App() {
   return (
     <div>
-      <Aha_Original />
+      <AhaOriginal />
+      <CustomArrows />
     </div>
   );
 }

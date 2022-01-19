@@ -1,6 +1,6 @@
 import { Div, Mdiv } from "../style/Div"
 
-export const Aha_Original = () => {
+export const AhaOriginal = () => {
 
 
     return (
