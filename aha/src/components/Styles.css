@@ -1,15 +1,25 @@
+@font-face {
+    font-family: 'Lato';
+    src: local('ProximaNova'), url(./Proxima\ Nova\ Font.otf) format('otf');
+}
 .cards img{
         border-radius: 11px;
 }
 .cards p{
     color:white;
-    font-family: proximaNova;
+    font-family: ProximaNova;
     font-size: 16px;
     margin-left: 10px;
+}
+.cards{
+    height:auto
 }
 .cards:hover{
     transform: translateY(-20px);
     transition: all 0.5s;
     cursor: pointer;
     box-sizing: border-box;
+}
+.slideShow:hover{
+    box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.75);
 }

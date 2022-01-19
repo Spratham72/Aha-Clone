@@ -2,16 +2,16 @@ import React, { Component } from "react";
 
 import Slider from "react-slick";
 import "./Styles.css";
-// function SampleNextArrow(props) {
-//   const { className, style, onClick } = props;
-//   return (
-//     <div
-//       className={className}
-//       style={{ ...style, display: "block", right:"100px",position:"absolute"}}
-//       onClick={onClick}
-//     />
-//   );
-// }
+function SampleNextArrow(props) {
+  const { className, style, onClick } = props;
+  return (
+    <div
+      className={className}
+      style={{ ...style,color:"cyan",display: "block", right:"30px",position:"absolute"}}
+      onClick={onClick}
+    />
+  );
+}
 
 
 // function SamplePrevArrow(props) {
@@ -19,7 +19,7 @@ import "./Styles.css";
 //   return (
 //     <div
 //       className={className}
-//       style={{ ...style,top:"20px",right:"20px", position: "relative",textAlign: "center",background: "green",height:'100px',width:"100px" }}
+//       style={{ ...style,color:"cyan",display: "block", left:"30px",position:"absolute"}}
 //       onClick={onClick}
 //     />
 //   );
@@ -35,17 +35,17 @@ export default class SimpleSlider extends Component {
         slidesToScroll: 1,
         autoplay: true,
       autoplaySpeed: 2000,
-        arrows:false,
-        appendDots: dots => (
-        <div>
-            <ul>{dots}</ul>
-        </div>
-      ),
-      // nextArrow: <SampleNextArrow />,
+        arrows:true,
+      //   appendDots: dots => (
+      //   <div>
+      //       <ul>{dots}</ul>
+      //   </div>
+      // ),
+      nextArrow: <SampleNextArrow />,
       // prevArrow: <SamplePrevArrow />
     };
     return (
-      <div style={{margin: "0px",padding: "0px"}}>
+      <div className="slideShow" style={{margin: "0px",padding: "0px"}}>
         <Slider {...settings} >
           <div  >
              <img src="https://image-resizer-cloud-api.akamaized.net/image/1DC3EEC3-20C1-4C7B-AB13-A7AC0D368956/0-3x1.jpg?width=1920" alt="image1" />

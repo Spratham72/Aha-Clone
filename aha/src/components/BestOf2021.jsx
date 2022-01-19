@@ -33,7 +33,33 @@ export default class MultipleItems extends Component {
       slidesToScroll: 3,
       arrows: true,
       nextArrow: <SampleNextArrow />,
-      prevArrow:<SamplePrevArrow />
+      prevArrow: <SamplePrevArrow />,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 3,
+            infinite: true,
+            dots: true
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            initialSlide: 2
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2
+          }
+        }
+      ]
     };
     return (
       <div >
@@ -41,7 +67,7 @@ export default class MultipleItems extends Component {
         <Slider {...settings} >
           <div   className="cards">
             <img src="https://image-resizer-cloud-api.akamaized.net/image/082F82D4-9E62-4B95-AC33-97FA05F16989/0-2x3.jpg?width=181" alt="card1" />
-            <p>Movie Name</p>
+            <p>Lakshya</p>
           </div>
           <div className="cards">
             <img src="https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338/0-2x3.jpg?width=181" alt="card1" />
