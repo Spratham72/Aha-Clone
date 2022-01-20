@@ -29,7 +29,7 @@ export default class UpComing extends Component {
     const settings = {
       infinite: false,
       speed: 500,
-      slidesToShow: 5,
+      slidesToShow: 8,
       slidesToScroll: 3,
       arrows: true,
       nextArrow: <SampleNextArrow />,
@@ -66,8 +66,20 @@ export default class UpComing extends Component {
         <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Upcoming On aha </h2>
         <Slider {...settings} >
           <div   className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/C5196255-96A6-4B02-9F71-E88D2F64E6F3/0-16x9.jpg?width=224" alt="card1" />
+            <p>Hey Jude Trailer</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/32F6AB8B-9778-432C-A39E-F1241D1229F5/0-16x9.jpg?width=224" alt="card1" />
+            <p>Unstoppable Special Episode</p>
+          </div>
+          <div className="cards">
             <img src="https://image-resizer-cloud-api.akamaized.net/image/1DC3EEC3-20C1-4C7B-AB13-A7AC0D368956/0-16x9.jpg?width=224" alt="card1" />
             <p>Bhamakalapam First Glimpse</p>
+          </div>
+           <div   className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/9FD13C35-D470-4F2D-ABF0-757C8FBF18C0/0-16x9.jpg?width=224" alt="card1" />
+            <p>Arjuna Phalguna Trailer</p>
           </div>
         </Slider>
       </div>

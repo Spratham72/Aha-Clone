@@ -50,7 +50,16 @@
     text-align: center;
     margin: auto;
 }
-
+.genres img{
+    /* position: absolute; */
+    z-index: 1;
+    top:0px;
+    height: 100%;
+    background: linear-gradient(2.23deg, #000 20.39%, transparent 98.33%);
+    opacity:  0.7;
+    justify-content:center;
+    align-items:center;
+}
 .ahaOG img {
     background: linear-gradient(2.23deg, #000 20.39%, transparent 98.33%);
 }
