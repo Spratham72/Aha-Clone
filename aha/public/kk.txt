@@ -1,0 +1,7 @@
+  <FacebookLogin
+                  className="option-email"
+                  appId="878354122841411"
+                  autoLoad={true}
+                  fields="name,email,picture"
+                  onClick={componentClicked}
+                  callback={responseFacebook} />
