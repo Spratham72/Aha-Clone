@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import Slider from "react-slick";
 import "./Styles.css";
 function SampleNextArrow(props) {

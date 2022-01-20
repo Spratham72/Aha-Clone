@@ -2,8 +2,14 @@
     font-family: 'Lato';
     src: local('ProximaNova'), url(./Proxima\ Nova\ Font.otf) format('otf');
 }
+.cards{
+    padding: 20px 10px 10px 10px;
+}
 .cards img{
         border-radius: 11px;
+}
+.cards img :hover{
+    box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.75);
 }
 .cards p{
     color:white;
@@ -11,14 +17,29 @@
     font-size: 16px;
     margin-left: 10px;
 }
+.premiumTag{
+    border-radius: 12px;
+    position: fixed; top:20px;
+    
+    background-color: inherit;
+    justify-content: right;
+    border:none
+    /* left:100px */
+}
 .cards{
     height:auto
 }
 .cards:hover{
-    transform: translateY(-20px);
+    transform: perspective(100px) translateY(-20px);
     transition: all 0.5s;
     cursor: pointer;
     box-sizing: border-box;
+}
+.slideShow{
+    width: 100%;
+}
+.slideShow img{
+    width: 100%;
 }
 .slideShow:hover{
     box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.75);
