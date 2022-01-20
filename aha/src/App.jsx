@@ -21,6 +21,7 @@ import Crime from './components/Crime';
 import Romance from './components/Romance';
 import ActorsAZ from './components/ActorsAZ';
 import GettingStarted from './components/GettingStarted';
+import { Footer } from './components/Footer';
 function App() {
   return (
     <div style={{padding:"0px",margin:"0px",boxSizing:"border-box"}}>
@@ -46,6 +47,7 @@ function App() {
       < Romance />
       < ActorsAZ />
       < GettingStarted />
+      < Footer />
     </div>
   );
 }
