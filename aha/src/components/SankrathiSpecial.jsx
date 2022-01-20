@@ -41,7 +41,7 @@ export default class SankrathiSpecials extends Component {
             slidesToShow: 4,
             slidesToScroll: 3,
             infinite: true,
-            dots: true
+            // dots: true
           }
         },
         {

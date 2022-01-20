@@ -41,7 +41,7 @@ export default class Genres extends Component {
             slidesToShow: 4,
             slidesToScroll: 3,
             infinite: true,
-            dots: true
+            // dots: true
           }
         },
         {
@@ -65,90 +65,54 @@ export default class Genres extends Component {
       <div >
         <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Genres</h2>
         <Slider {...settings} >
-          <div   className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/082F82D4-9E62-4B95-AC33-97FA05F16989/0-2x3.jpg?width=181" alt="card1" />
-            <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Lakshya</p>
+          <div   className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/043D44D4-3207-495C-BE41-3408EF030E2F/3-1x1.jpg?width=150" alt="card1" />           
+            <p>Drama</p>
           </div>
-          {/* <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338/0-2x3.jpg?width=181" alt="card1" />
-            <div className="premiumTag">
-              <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Love Story</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/7F4940AA-9AED-4423-BE07-99444BB2AF8E/3-1x1.jpg?width=150" alt="card1" />
+            <p>Action</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4BAD80A8-8D00-4010-B9E3-02F257B86B74/0-2x3.jpg?width=181" alt="card1" />
-                        <div className="premiumTag">
-              <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>SenaPathi</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338/0-2x3.jpg?width=150" alt="card1" />
+                      
+            <p>Romance</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5B48DD8D-CA0B-4836-933B-D69BB80DFBD3/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>SR KalyanaMandapam</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/8A4D87E9-A64F-4DEE-93AC-70B18DAB200E/3-1x1.jpg?width=150" alt="card1"/>
+                    
+            <p>Comedy</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4B436E0D-B442-4647-9014-5D46B0B3DF37/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Most Eligible Bachelor</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/980B8405-40B2-46AD-B42B-1D32E2904148/3-1x1.jpg?width=150" alt="card1"/>
+                     
+            <p>Thriller</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FD0ED325-4244-4437-877B-73AB859A1238/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Krack</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/A08999DD-0D95-475A-99FF-63FD0E32C280/3-1x1.jpg?width=150" alt="card1"/>
+                    
+            <p>Crime</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/73830D38-C02F-4B96-9E67-EA5034FA7432/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Jambie Reddy</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/3F7F6586-D3E3-429A-9654-04B74B32DF1B/3-1x1.jpg?width=150" alt="card1"/>
+                   
+            <p>Romance Comedy</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3F86D041-EBBB-4028-90EC-B199AC580FB9/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Sulthan</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/3EECFEB8-172F-4ED8-9C23-E72E49666F4A/3-1x1.jpg?width=150" alt="card1"/>
+                 
+            <p>Family Drama</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5A8AAB23-17F7-4E49-A299-8D422EA8117B/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Pushapaka Vimanam</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/BBD54BA4-A014-4725-8D29-3E81FA8928B0/3-1x1.jpg?width=150" alt="card1"/>
+                 
+            <p>Devotional</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/543ABA39-F07B-4594-B2EB-0CDC025F5AC0/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Mail</p>
+          <div className="genres">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/BCA532C2-B758-4D4D-A129-471320872391/3-1x1.jpg?width=150" alt="card1"/>
+               
+            <p>Horror Comedy</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FE88FDDA-88F4-4BC1-9FF7-57C091AEABA4/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Superover</p>
-          </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4A651C09-9C7D-49CE-B03F-6495DC54C043/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Thank You Brother</p>
-          </div> */}
         </Slider>
       </div>
     );

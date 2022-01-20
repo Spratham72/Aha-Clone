@@ -2,67 +2,91 @@
     font-family: 'ProximaNova';
     src: local('ProximaNova'), url(./Proxima\ Nova\ Font.otf) format('otf');
 }
-*{
+
+* {
     font-family: "ProximaNova";
 }
-.cards{
+
+.cards {
     padding: 20px 10px 10px 10px;
 }
-.cards img{
-        border-radius: 11px;
+
+.cards img {
+    border-radius: 11px;
 }
-.cards img :hover{
+
+.cards img :hover {
     box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.75);
 }
-.cards p{
-    color:white;
+
+.cards p {
+    color: white;
     font-family: ProximaNova;
     font-size: 16px;
     margin-left: 10px;
 }
-.premiumTag{
+
+.premiumTag {
     border-radius: 12px;
-    position: fixed; top:20px;
-    
+    position: fixed;
+    top: 20px;
+
     background-color: inherit;
     justify-content: right;
-    border:none
-    /* left:100px */
+    border: none
+        /* left:100px */
 }
-.ahaOG p{
-    position: fixed;
-    bottom:15px;
-    box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.75);
-    font-size: 18px;
 
+.ahaOG p {
+    position: absolute;
+    z-index: 1;
+    bottom:20px;
+    opacity:  0.9;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    background: linear-gradient(10.23deg, black 0.39%, transparent 98.33%);
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
 }
-.actors img{
+
+.ahaOG img {
+    background: linear-gradient(2.23deg, #000 20.39%, transparent 98.33%);
+}
+
+.actors img {
     border-radius: 50%;
 }
-.movieTitle
-{
+
+.movieTitle {
     text-align: center;
     background: local;
     margin: auto;
-    padding:auto;
+    padding: auto;
     background-color: transparent;
 
 }
-.cards{
-    height:auto
+
+.cards {
+    height: auto
 }
-.cards:hover{
+
+.cards:hover {
     transform: perspective(100px) translateY(-20px);
     transition: all 0.5s;
     cursor: pointer;
     box-sizing: border-box;
 }
-.slideShow{
+
+.slideShow {
     width: 100%;
 }
-.slideShow img{
+
+.slideShow img {
     width: 100%;
 }
-.tagNew img{
+
+.tagNew img {
     width: 150%;
 }
