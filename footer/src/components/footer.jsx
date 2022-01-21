@@ -4,6 +4,14 @@ import Button from '@mui/material/Button';
 import { Link } from "react-router-dom"
 import "./footer.css"
 import { faAlignJustify, faCoffee } from "@fortawesome/free-solid-svg-icons"
+import { FaRegStar } from 'react-icons/fa';
+import { CgScreen } from "react-icons/cg";
+import { HiOutlineHome } from "react-icons/hi"
+import { BsCameraVideo } from "react-icons/bs";
+import { BsCheckLg } from "react-icons/bs"
+import { BsBorderAll } from "react-icons/bs";
+import { BiSearch } from "react-icons/bi";
+import { FiMenu } from "react-icons/fi";
 export const Footer = () => {
 
     return (<>
@@ -244,40 +252,54 @@ export const Footer = () => {
                     justifyContent: "space-around"
                 }} >
                     <div className="f_nav_top_child">
-                        All
+                        <BsBorderAll className="f_nav_top_child_font" /><span> All</span>
                     </div>
                     <div className="f_nav_top_child">
-                        Movies
+                        <BsCameraVideo className="f_nav_top_child_font" />
+                        <span>Movies</span>
                     </div>
                     <div className="f_nav_top_child">
-                        Shows
+                        <CgScreen className="f_nav_top_child_font" />
+                        <span>Shows</span>
                     </div>
                     <div className="f_nav_top_child">
-                        Kids
+                        <FaRegStar className="f_nav_top_child_font" />
+                        <span>Kids</span>
                     </div>
                 </div>
 
             </div>
             <div className="f_nav_bottom">
                 <a href="#">
-                    <div className="f_nav_bottom_child">Home</div>
+                    <div className="f_nav_bottom_child">
+                        <HiOutlineHome className="f_nav_bottom_child_font" />
+                        <div>Home</div>
+                    </div>
                 </a>
                 <a href="#">
-                    <div className="f_nav_bottom_child">My aha</div>
+                    <div className="f_nav_bottom_child">
+                        <BsCheckLg className="f_nav_bottom_child_font" />
+                        <div>My aha</div>
+                    </div>
                 </a>
 
 
                 <a href="#">
-                    <div className="f_nav_bottom_child">Seach</div>
+                    <div className="f_nav_bottom_child">
+                        <BiSearch className="f_nav_bottom_child_font" />
+                        <div>Search</div>
+                    </div>
                 </a>
 
                 <a href="#">
-                    <div className="f_nav_bottom_child">Menu</div>
+                    <div className="f_nav_bottom_child">
+                        <FiMenu className="f_nav_bottom_child_font" />
+                        <div>Menu</div>
+                    </div>
                 </a>
 
             </div>
         </div>
-
 
     </>)
 }

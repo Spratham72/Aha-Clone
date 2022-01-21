@@ -50,6 +50,15 @@ html {
   margin-bottom: 1.5vw;
   margin-top: 0.7vw;
 }
+@media (max-width: 700px) {
+  .insta_logo {
+    width: 4.3vw;
+    height: 4.3vw;
+    margin-right: 0.7vw;
+    margin-bottom: 1.5vw;
+    margin-top: 0.7vw;
+  }
+}
 
 .powered_logo {
   width: 6.8vw;
@@ -157,14 +166,39 @@ html {
   margin-bottom: 0;
   text-align: center;
   height: 2.5rem;
-  border-radius: 2.7vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 1rem;
   font-size: 1.6rem;
   font-weight: 400;
   color: #fff;
-  background-color: #393e46;
+}
+.f_nav_top_child_font {
+  margin-right: 1vw;
+  color: rgb(248, 101, 42);
+  font-size: 2rem;
+  font-weight: 500;
 }
 
+.f_nav_top_child:hover {
+  background-color: #393e46;
+  border-radius: 2.7vh;
+  display: inline-block;
+  margin-top: 6rem;
+  margin-bottom: 0;
+  text-align: center;
+  height: 2.5rem;
+  padding: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #fff;
+}
+.f_nav_top_child:hover + .f_nav_top_child_font {
+  display: block;
+  margin-right: 1vw;
+  color: rgb(248, 101, 42);
+}
 .f_nav_top_logo {
   width: 9vw;
   margin: auto;
@@ -210,4 +244,8 @@ html {
   font-size: 1.2rem;
   color: #fff;
   background-color: #393e46;
+}
+.f_nav_bottom_child_font {
+  color: rgb(248, 101, 42);
+  font-size: 2rem;
 }
