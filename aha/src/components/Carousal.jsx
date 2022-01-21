@@ -47,6 +47,9 @@ export default class SimpleSlider extends Component {
       <div className="slideShow" style={{margin: "0px",padding: "0px"}}>
         <Slider {...settings} >
           <div  >
+             <img src="https://image-resizer-cloud-api.akamaized.net/image/42FC76D4-89D7-408E-8348-249379367205/0-3x1.jpg?width=1920" alt="image1" />
+          </div>
+          <div  >
              <img src="https://image-resizer-cloud-api.akamaized.net/image/1DC3EEC3-20C1-4C7B-AB13-A7AC0D368956/0-3x1.jpg?width=1920" alt="image1" />
           </div>
         <div >

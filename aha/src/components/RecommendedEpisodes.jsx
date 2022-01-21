@@ -27,7 +27,7 @@ function SamplePrevArrow(props) {
 export default class RecommendedEpisodes extends Component {
   render() {
     const settings = {
-      infinite: true,
+      // infinite: true,
       speed: 500,
       slidesToShow: 10,
       slidesToScroll: 3,
@@ -38,7 +38,7 @@ export default class RecommendedEpisodes extends Component {
         {
           breakpoint: 1024,
           settings: {
-            slidesToShow: 4,
+            slidesToShow: 6,
             slidesToScroll: 3,
             infinite: true,
             // dots: true

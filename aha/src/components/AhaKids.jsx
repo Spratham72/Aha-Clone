@@ -66,88 +66,133 @@ export default class AhaKids extends Component {
         <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Aha Kids </h2>
         <Slider {...settings} >
           <div   className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/082F82D4-9E62-4B95-AC33-97FA05F16989/0-2x3.jpg?width=181" alt="card1" />
-            <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Lakshya</p>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/E1393AA6-177A-419F-80D6-0B40F698AC90/0-2x3.jpg?width=181" alt="card1" />
+            
+            <p>Christmas Thatha</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338/0-2x3.jpg?width=181" alt="card1" />
-            <div className="premiumTag">
-              <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Love Story</p>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/28C3BF2C-3282-47FE-AA0B-A74CBFF9040B/0-2x3.jpg?width=181" alt="card1" />
+            
+            <p>Christmas Thatha Song</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4BAD80A8-8D00-4010-B9E3-02F257B86B74/0-2x3.jpg?width=181" alt="card1" />
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/11975FAE-738D-4EBE-B4F2-48BB7A4EC758/0-2x3.jpg?width=181" alt="card1" />
                         <div className="premiumTag">
               <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>SenaPathi</p>
+            <p>Bal Hanuman 2</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5B48DD8D-CA0B-4836-933B-D69BB80DFBD3/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/4C0B57CA-811D-4D8E-B8E9-2ABA8214CBE7/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>SR KalyanaMandapam</p>
+            <p>Ghatotkacha</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4B436E0D-B442-4647-9014-5D46B0B3DF37/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/F3B725AA-EFC1-4E38-A52B-CEE0234E2910/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Most Eligible Bachelor</p>
+            <p>Super K</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FD0ED325-4244-4437-877B-73AB859A1238/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/636C15D4-F324-4823-A32B-E7D48AE718BE/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Krack</p>
+            <p>Krishna Balaram Kalvakra</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/73830D38-C02F-4B96-9E67-EA5034FA7432/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/11486C44-72F0-4B86-864A-6740FB493A05/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Jambie Reddy</p>
+            <p>Vikram Betal</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3F86D041-EBBB-4028-90EC-B199AC580FB9/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/332F0C26-FED6-4785-899D-32427A0186BD/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Sulthan</p>
+            <p>Krishna & Balaram</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5A8AAB23-17F7-4E49-A299-8D422EA8117B/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/271250CD-2EA5-470D-BC37-350E2DE700ED/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Pushapaka Vimanam</p>
+            <p>Return of Hanuman</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/543ABA39-F07B-4594-B2EB-0CDC025F5AC0/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/88E06F5B-9ED1-4DB6-A5FC-0E111A40E6B2/0-2x3.jpg?width=181" alt="card1"/>
+                     
+            <p>Prahlad</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/C6A8C26F-85E8-4847-8792-2DC69722177F/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Mail</p>
+            <p>Ravan Mahayodha</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FE88FDDA-88F4-4BC1-9FF7-57C091AEABA4/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/75611D23-1473-4CFF-AB22-6EDA2F3A76B3/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Superover</p>
+            <p>Krishna and Balaram - Kalvakra Returns</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4A651C09-9C7D-49CE-B03F-6495DC54C043/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/A58C083C-585A-4A6F-BB39-0272D41669E8/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Thank You Brother</p>
+            <p>Bala Ganesha</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/D63864BB-29C7-46C2-98BE-9E679222E6D6/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Balganesh and Pomzom Planet</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/FB669441-EABD-4730-A6D6-3BE184EBE955/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>The Legend of Buddha!</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/AE0B5149-A41D-492E-9031-9D00DA960641/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Maha Ganesha</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/19B101AB-9EEC-4098-9901-81B81D8D2E16/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Chhota Bheem and Krishna vs Zimbara</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/23B6F811-C61E-40CD-A023-1D61054323F8/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Hanuman vs Mahiraavana</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/BC7BA357-4965-4714-B7A6-098DED9A5CC4/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Chhota Bheem and Krishna: Mayanagari</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/43E7C8C5-D01A-4DD5-94BD-684E0FA08EFE/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Chhota Bheem Journey to Petra</p>
           </div>
         </Slider>
       </div>

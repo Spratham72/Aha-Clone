@@ -66,88 +66,109 @@ export default class Action extends Component {
         <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Action </h2>
         <Slider {...settings} >
           <div   className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/082F82D4-9E62-4B95-AC33-97FA05F16989/0-2x3.jpg?width=181" alt="card1" />
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/AD64848C-39EA-4568-98A3-4AA88B49C928/0-2x3.jpg?width=181" alt="card1" />
             <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Lakshya</p>
+            <p>100</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338/0-2x3.jpg?width=181" alt="card1" />
-            <div className="premiumTag">
-              <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Love Story</p>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/9AA542D9-08A4-4FCD-92FC-D6055B4E32C8/0-2x3.jpg?width=181" alt="card1" />
+        
+            <p>Gunturoodu</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4BAD80A8-8D00-4010-B9E3-02F257B86B74/0-2x3.jpg?width=181" alt="card1" />
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/D2E3CCFA-92AD-4719-9C25-D3F4E38178E0/0-2x3.jpg?width=181" alt="card1" />
                         <div className="premiumTag">
               <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>SenaPathi</p>
+            <p>Maari 2</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5B48DD8D-CA0B-4836-933B-D69BB80DFBD3/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/0EA9300B-78BD-40D8-8BFD-BFAC4C160E7E/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>SR KalyanaMandapam</p>
+            <p>Mr KK</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4B436E0D-B442-4647-9014-5D46B0B3DF37/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/4586C2EB-3600-4607-9468-114C1BFFCA6D/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Most Eligible Bachelor</p>
+            <p>Bhairava geetha</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FD0ED325-4244-4437-877B-73AB859A1238/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/99923D3A-9879-4487-BD1F-CAA49CB54BE7/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Krack</p>
+            <p>Shakthi</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/73830D38-C02F-4B96-9E67-EA5034FA7432/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/C8A02681-1821-4F62-AEF2-4B8811DAE5D2/0-2x3.jpg?width=181" alt="card1"/>
+                     
+            <p>Yevadu</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/E810A6FC-18D6-4A51-B917-0CCEED68A881/0-2x3.jpg?width=181" alt="card1"/>
+                     
+            <p>Taagore</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/BE920FF8-57E9-456C-A9CA-B224A8F1FC04/0-2x3.jpg?width=181" alt="card1"/>
+                    
+            <p>Racegurram</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/C5E97E4A-CD9A-4E17-8D83-95781A7078CC/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Jambie Reddy</p>
+            <p>Jaya Janaki Nayaka</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3F86D041-EBBB-4028-90EC-B199AC580FB9/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/EE780519-CE66-4E9B-9D3A-342B9648F75F/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Sulthan</p>
+            <p>NGK</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5A8AAB23-17F7-4E49-A299-8D422EA8117B/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/62E8AAB6-2AF3-45C2-B1B1-313D40DF7E74/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Pushapaka Vimanam</p>
-          </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/543ABA39-F07B-4594-B2EB-0CDC025F5AC0/0-2x3.jpg?width=181" alt="card1"/>
+            <p>Kavacham</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/13120087-DD82-40BF-8075-7E15891FBB72/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Mail</p>
-          </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FE88FDDA-88F4-4BC1-9FF7-57C091AEABA4/0-2x3.jpg?width=181" alt="card1"/>
+            <p>Shylock</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/675C8AD4-B307-4200-8254-12E3325DCE9B/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Superover</p>
+            <p>Krishnarjuna Yuddham</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/5B81FB04-6531-49ED-94ED-81976C6B977E/0-2x3.jpg?width=181" alt="card1"/>
+                        
+            <p>Oke Okkadu</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/0A6C87A4-B8E7-422F-B16D-88E06A7C7198/0-2x3.jpg?width=181" alt="card1"/>
+                      
+            <p>Jalsa</p>
           </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4A651C09-9C7D-49CE-B03F-6495DC54C043/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Thank You Brother</p>
+           <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/194992CC-8133-40BF-A061-D0CBE9746F3A/0-2x3.jpg?width=181" alt="card1"/>
+                      
+            <p>Bujjigaadu</p>
+          </div> <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/B51E4D07-4B14-4873-ABA4-9B65C7D006CB/0-2x3.jpg?width=181" alt="card1"/>
+                      
+            <p>Venky</p>
           </div>
         </Slider>
       </div>

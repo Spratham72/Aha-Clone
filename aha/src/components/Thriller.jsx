@@ -66,39 +66,59 @@ export default class Thriller extends Component {
         <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Thriller </h2>
         <Slider {...settings} >
           <div   className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/082F82D4-9E62-4B95-AC33-97FA05F16989/0-2x3.jpg?width=181" alt="card1" />
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/C165D254-3E49-4D36-B400-6FBF372395A8/0-2x3.jpg?width=181" alt="card1" />
             <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Lakshya</p>
+            <p>Thriller</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338/0-2x3.jpg?width=181" alt="card1" />
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/28256AAC-38A0-4177-8DEE-12CBF537D598/0-2x3.jpg?width=181" alt="card1" />
             <div className="premiumTag">
               <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Love Story</p>
+            <p>Nipha Virus</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4BAD80A8-8D00-4010-B9E3-02F257B86B74/0-2x3.jpg?width=181" alt="card1" />
-                        <div className="premiumTag">
-              <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>SenaPathi</p>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/74E226AE-07CB-4D4C-BA80-FCDE7E6C1F66/0-2x3.jpg?width=181" alt="card1" />
+                  
+            <p>Aithe</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5B48DD8D-CA0B-4836-933B-D69BB80DFBD3/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/E9B92DEE-9107-4A6B-9E3A-4BD01968B819/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>SR KalyanaMandapam</p>
+            <p>Arjun Suravaram</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4B436E0D-B442-4647-9014-5D46B0B3DF37/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/BB2CF523-D36E-4210-A623-085A83C93ED1/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Most Eligible Bachelor</p>
+            <p>Bangaru Thalli</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/FB84F4E4-D429-40A0-AF5E-FF647428A05B/0-2x3.jpg?width=181" alt="card1"/>
+                   
+            <p>Kathanam</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/5FB249D9-8C43-4AB6-B838-D084A68F8ACC/0-2x3.jpg?width=181" alt="card1"/>
+                   
+            <p>NH 4</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/EE0252F8-57EB-4B87-907A-E330938423A6/0-2x3.jpg?width=181" alt="card1"/>
+                  
+            <p>Goodaachari No.1</p>
+          </div>
+          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/C6DE0F89-3C79-4E94-9324-913D1BA65563/0-2x3.jpg?width=181" alt="card1"/>
+                        <div className="premiumTag">
+            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
+            </div>
+            <p>Khaidi</p>
           </div>
           <div className="cards">
             <img src="https://image-resizer-cloud-api.akamaized.net/image/FD0ED325-4244-4437-877B-73AB859A1238/0-2x3.jpg?width=181" alt="card1"/>
@@ -108,47 +128,40 @@ export default class Thriller extends Component {
             <p>Krack</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/73830D38-C02F-4B96-9E67-EA5034FA7432/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/AE871D39-4E17-499B-85DA-227B0FC28556/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Jambie Reddy</p>
+            <p>Forensic</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/3F86D041-EBBB-4028-90EC-B199AC580FB9/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/5BD075A6-F5B3-436D-A253-07AD5C81B042/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Sulthan</p>
+            <p>Anaganaga O Athidhi</p>
           </div>
           <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/5A8AAB23-17F7-4E49-A299-8D422EA8117B/0-2x3.jpg?width=181" alt="card1"/>
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/488EEFF6-615F-4E5E-BE58-1B33FBAE5B76/0-2x3.jpg?width=181" alt="card1"/>
+                      
+            <p>Anukokunda Oka Roju</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/34B50124-A9F8-40DC-A5AA-937CCF0B035C/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Pushapaka Vimanam</p>
-          </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/543ABA39-F07B-4594-B2EB-0CDC025F5AC0/0-2x3.jpg?width=181" alt="card1"/>
+            <p>And The Oscar Goes To..</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/2D749475-A201-4342-ADF0-F8B9E744494A/0-2x3.jpg?width=181" alt="card1"/>
+                      
+            <p>Lachhimdeviki O Lekkundi</p>
+          </div>          <div className="cards">
+            <img src="https://image-resizer-cloud-api.akamaized.net/image/8A610FD0-DBB4-4225-BCAF-9CAB908B643A/0-2x3.jpg?width=181" alt="card1"/>
                         <div className="premiumTag">
             <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
             </div>
-            <p>Mail</p>
-          </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/FE88FDDA-88F4-4BC1-9FF7-57C091AEABA4/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Superover</p>
-          </div>
-          <div className="cards">
-            <img src="https://image-resizer-cloud-api.akamaized.net/image/4A651C09-9C7D-49CE-B03F-6495DC54C043/0-2x3.jpg?width=181" alt="card1"/>
-                        <div className="premiumTag">
-            <img src="https://www.aha.video/premium-tag.e5df97bbb026e5ce238e.svg" alt="premiumTag" />
-            </div>
-            <p>Thank You Brother</p>
-          </div>
+            <p>Killing Veerappan</p>
+          </div>           
         </Slider>
       </div>
     );
