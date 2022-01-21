@@ -1,0 +1,26 @@
+.plan {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    gap: 5%;
+    align-items: center;
+}
+
+.plan>* {
+    border: #3b4046 1px solid;
+    padding: 20px;
+    background-color: #3b4046;
+    border-radius: 20px;
+
+}
+
+.subsButton {
+    justify-content: center;
+    align-items: center;
+    width: calc(15vw + var(--susbcribe-button-width, 0vw));
+    height: calc(3.34vw + var(--susbcribe-button-size, 0vw));
+    background: linear-gradient(180deg, #b61a09 -86.4%, #ff6d2e);
+    border-radius: 26.0997px;
+    cursor: pointer;
+    border: none
+}

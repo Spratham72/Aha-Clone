@@ -2,10 +2,10 @@
     font-family: 'ProximaNova';
     src: local('ProximaNova'), url(./Proxima\ Nova\ Font.otf) format('otf');
 } */
-
+/* 
 * {
     font-family: "ProximaNova";
-}
+} */
 
 .cards {
     padding: 20px 10px 10px 10px;

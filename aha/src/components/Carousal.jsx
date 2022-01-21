@@ -44,7 +44,7 @@ export default class SimpleSlider extends Component {
       // prevArrow: <SamplePrevArrow />
     };
     return (
-      <div className="slideShow" style={{margin: "0px",padding: "0px"}}>
+      <div className="slideShow" style={{marginTop:"0px",padding: "0px"}}>
         <Slider {...settings} >
           <div  >
              <img src="https://image-resizer-cloud-api.akamaized.net/image/42FC76D4-89D7-408E-8348-249379367205/0-3x1.jpg?width=1920" alt="image1" />

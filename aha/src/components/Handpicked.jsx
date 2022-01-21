@@ -12,16 +12,16 @@ function SampleNextArrow(props) {
   );
 }
 
-function SamplePrevArrow(props) {
-  const { className, style, onClick } = props;
-  return (
-    <div
-      className={className}
-      style={{ ...style, display: "block", position: "absolute", backgroundColor: 'red',height:'100px',width:"100px" }}
-      onClick={onClick}
-    />
-  );
-}
+// function SamplePrevArrow(props) {
+//   const { className, style, onClick } = props;
+//   return (
+//     <div
+//       className={className}
+//       style={{ ...style, display: "block", position: "absolute", backgroundColor: 'red',height:'100px',width:"100px" }}
+//       onClick={onClick}
+//     />
+//   );
+// }
 
 
 export default class Handpicked extends Component {
@@ -33,7 +33,7 @@ export default class Handpicked extends Component {
       slidesToScroll: 3,
       arrows: true,
       nextArrow: <SampleNextArrow />,
-      prevArrow: <SamplePrevArrow />,
+      // prevArrow: <SamplePrevArrow />,
       responsive: [
         {
           breakpoint: 1024,

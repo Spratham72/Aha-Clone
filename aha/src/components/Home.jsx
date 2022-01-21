@@ -1,6 +1,6 @@
 // import {Routes,Route} from "react-router-dom"
 import SimpleSlider from './Carousal';
-import { Navbar } from './Navbar';
+import { Navbar } from './navbar';
 import MultipleItems from "./BestOf2021"
 import NewReleases from './NewRelease';
 import SankrathiSpecials from './SankrathiSpecial';
@@ -24,8 +24,9 @@ import GettingStarted from './GettingStarted';
 import { Footer } from './Footer';
 export const Home = () => {
     return (
-        <>
+        <div >
             {/* <Navbar /> */}
+            <div style={{height:"10%"}}></div>
       <SimpleSlider />
       < MultipleItems />
       < NewReleases />
@@ -48,6 +49,6 @@ export const Home = () => {
       < ActorsAZ />
       < GettingStarted />
       < Footer />
-        </>
+        </div>
     )
 }
