@@ -1,9 +1,12 @@
 
-import Stack from '@mui/material/Stack';
-import Button from '@mui/material/Button';
-import { Link } from "react-router-dom"
+import {  FaSearch } from 'react-icons/fa';
+
+import {  ImMenu} from 'react-icons/im';
+import { GoHome } from 'react-icons/go';
+import { FaCheck } from 'react-icons/fa';
+
 import "./footer.css"
-import { faAlignJustify, faCoffee } from "@fortawesome/free-solid-svg-icons"
+// import { faAlignJustify, faCoffee } from "@fortawesome/free-solid-svg-icons"
 export const Footer = () => {
 
     return (<>
@@ -260,19 +263,24 @@ export const Footer = () => {
             </div>
             <div className="f_nav_bottom">
                 <a href="#">
-                    <div className="f_nav_bottom_child">Home</div>
+                    <div className="f_nav_bottom_child"><GoHome />
+                    <h4>Home</h4></div>
                 </a>
                 <a href="#">
-                    <div className="f_nav_bottom_child">My aha</div>
+                    <div className="f_nav_bottom_child">< FaCheck />
+                    <h4>My aha</h4>
+                    </div>
                 </a>
 
 
                 <a href="#">
-                    <div className="f_nav_bottom_child">Seach</div>
+                    <div className="f_nav_bottom_child"><FaSearch />
+                    <h4>Search</h4></div>
                 </a>
 
                 <a href="#">
-                    <div className="f_nav_bottom_child">Menu</div>
+                    <div className="f_nav_bottom_child"><ImMenu />
+                    <h4>Menu</h4></div>
                 </a>
 
             </div>

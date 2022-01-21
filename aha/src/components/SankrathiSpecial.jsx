@@ -63,7 +63,7 @@ export default class SankrathiSpecials extends Component {
     };
     return (
       <div >
-        <h2  style={{color:"white",marginLeft:"10px"}}> Sankrathi Special </h2>
+        <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Sankrathi Special </h2>
         <Slider {...settings} >
           <div   className="cards">
             <img src="https://image-resizer-cloud-api.akamaized.net/image/A3D9CA1E-669A-46D8-A252-277FDF75AA18/0-2x3.jpg?width=181" alt="card1" />

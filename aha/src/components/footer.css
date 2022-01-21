@@ -147,7 +147,7 @@ html {
 }
 
 .f_nav_bottom {
-    height: 5.2rem;
+    height: 5.7rem;
     width: 100vw;
     border-radius: 2.2rem 2.2rem 0 0;
     background-color: inherit;
@@ -209,12 +209,12 @@ html {
 
 .f_nav_bottom_child {
     display: inline-block;
-    margin-bottom: 0;
+    margin-bottom: 5;
     margin-top: 1vh;
     text-align: center;
-    height: 0vh;
+    height: 1vh;
     border-radius: 2.7vh;
-    padding: 1vh 0px 0 0;
+    /* padding: 1vh 0px 0 0; */
     font-size: 1.2rem;
     color: #fff;
     background-color: inherit;

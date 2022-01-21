@@ -63,7 +63,7 @@ export default class Top10ThisWeek extends Component {
     };
     return (
       <div >
-        <h2 style={{color:"white",marginLeft:"10px"}}> Top 10 - This Week </h2>
+        <h2 className="title" style={{color:"white",marginLeft:"10px"}}> Top 10 - This Week </h2>
         <Slider {...settings} >
           <div   className="cards">
             <img src="https://image-resizer-cloud-api.akamaized.net/image/4BAD80A8-8D00-4010-B9E3-02F257B86B74/0-2x3.jpg?width=181" alt="card1" />
