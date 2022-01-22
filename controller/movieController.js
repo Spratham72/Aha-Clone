@@ -11,9 +11,9 @@ router.get("/", async (req, res) => {
     res.status(400).json("bad request");
   }
 });
-router.get("/:id", async (req, res) => {
+router.get("/:movietitle", async (req, res) => {
   try {
-    const movie = await Movie.findById(req.params.id)
+    const movie = await Movie.find({ "title": req.params.movietitle })
       .lean()
       .exec();
     res.status(201).json({ movie });
@@ -21,9 +21,9 @@ router.get("/:id", async (req, res) => {
     res.status(400).json("bad request");
   }
 });
-router.get("/:movietitle", async (req, res) => {
+router.get("/:id", async (req, res) => {
   try {
-    const movie = await Movie.find({ "title": req.params.movietitle })
+    const movie = await Movie.findById(req.params.id)
       .lean()
       .exec();
     res.status(201).json({ movie });
