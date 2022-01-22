@@ -10,8 +10,9 @@
     background-color: #1a1d1e;
     /* position: fixed; */
     /* index:1px; */
+    z-index: 15;
     width: 95%;
-    height: 15px;
+    height: 0.5em;
     font-size:1.5em;
     cursor: pointer;
 }
