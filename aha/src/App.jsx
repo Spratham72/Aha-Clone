@@ -1,7 +1,6 @@
 import './App.css';
 import SimpleSlider from './components/Carousal';
 import { Navbar } from './components/Navbar';
-import SankrathiSpecials from './components/SankrathiSpecial';
 import Top10ThisWeek from './components/Top10ThisWeek';
 import AhaOriginals from './components/AhaOriginals';
 
@@ -16,7 +15,6 @@ function App() {
       <Navbar />
       <SimpleSlider />
       
-      < SankrathiSpecials />
       < Top10ThisWeek />
       < AhaOriginals />
       < Action />
