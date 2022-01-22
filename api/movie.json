@@ -1,0 +1,454 @@
+[
+  {
+    "title": "Lakshya",
+    "actors": [
+      {
+        "name": "Naga Shourya",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/naga-shourya/0-1x1.jpg?width=104"
+      },
+      {
+        "name": "Ketika Sharma",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/ketika-sharma/0-1x1.jpg?width=104"
+      },
+      {
+        "name": "Jagapathi Babu",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/jagapathi-babu/0-1x1.jpg?width=100"
+      },
+      {
+        "name": "Sachin Khedekar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/sachin-khedekar/0-1x1.jpg?width=100"
+      },
+      {
+        "name": "Ravi Prakash",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/ravi-prakash/0-1x1.jpg?width=100"
+      },
+      {
+        "name": "Satya",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/satya/0-1x1.jpg?width=100"
+      }
+    ],
+    "director": [{ "name": "Santhosh Jagarlapudi" }, { "name": "Periyasamy" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/082F82D4-9E62-4B95-AC33-97FA05F16989//0-3x1.jpg?width=815",
+    "description": "Two Clever Engineers Decide To Change Their Deceptive Ways And Start Afresh After Falling In Love Until A Crazy Twist Leaves Their Lives In Turmoil.",
+    "trailer": "https://www.youtube.com/watch?v=QzA32ZC3lhw",
+    "studio": "Sri Venkateswara Cinemas, Northstar Entertainment",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 18min"
+  },
+  {
+    "title": "Love Story",
+    "actors": [
+      {
+        "name": "Naga Chaitanya",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/naga-chaitanya/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Sai Pallavi",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/sai-pallavi/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Easwari rao",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/eswari-rao/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Rajeev Kanakala",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/rajeev-kanakala/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Devayani",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/devayani/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Uttej",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/uttej/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Sekhar Kammula" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/3B231226-EF16-442E-815E-AAEAF5108338//0-3x1.jpg?width=1536",
+    "description": "Revanth Is Settled In Hyderabad As A Zumba Trainee, Mounica Comes From A Conservative Upper Cast Family. It Is The Story Of How They Both Face The Problems In The Society In Order To Start A Life Together.",
+    "trailer": "https://www.youtube.com/watch?v=1yH_eOxpkwo",
+    "studio": "Amigos Creations",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 36min"
+  },
+  {
+    "title": "Senapathi",
+    "actors": [
+      {
+        "name": "Rajendra Prasad",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/rajendra-prasad/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Naresh Agastya",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/naresh-agastya/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Harshavardhan",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/harshavardhan/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Gnaneswari",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/gnaneswari/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Sathya Prakash",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/sathya-prakash/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Rakendu Mouli",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/rakendu-mouli/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Pavan Sadineni" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/4BAD80A8-8D00-4010-B9E3-02F257B86B74//0-16x9.jpg?width=1536",
+    "description": "Krishna, An Honest Policeman, Accidentally Loses His Service Pistol While Tailing A Criminal. However, The Thief Who Stole The Pistol Sells It To Murthy And He Goes On A Killing Spree.",
+    "trailer": "https://www.youtube.com/watch?v=V5Gbz44TnzU",
+    "studio": "Gold Box Entertainment",
+    "premium": "true",
+    "age": "N/A",
+    "year": "2021",
+    "time": "2hr 23min"
+  },
+  {
+    "title": "SR Kalyanamandapam",
+    "actors": [
+      {
+        "name": "Kiran Abbavaram",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/kiran-abbavaram/0-1x1.jpg?width=140"
+      },
+      {
+        "name": "Priyanka Jawalkar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/priyanka-jawalkar/0-1x1.jpg?width=140"
+      },
+      {
+        "name": "Sai Kumar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/sai-kumar/0-1x1.jpg?width=140"
+      },
+      {
+        "name": "Tulasi",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/tulasi/0-1x1.jpg?width=140"
+      },
+      {
+        "name": "Srikanth Iyengar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/srikanth-iyengar/0-1x1.jpg?width=140"
+      }
+    ],
+    "director": [{ "name": "Sridhar Gade" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/5B48DD8D-CA0B-4836-933B-D69BB80DFBD3//0-3x1.jpg?width=1150",
+    "description": "The plot revolves around a family that owns SR Kalyanamandapam, where marriages are conducted from ages. Dharma (the father) fails to take care of the business. Unknown Conflicts occur between the father and the son. Kalyan comes to restore his family’s pride, falls in love with Sindhu. How does Kalyan settle the issues and solve the conflicts?",
+    "trailer": "https://www.youtube.com/watch?v=FQ5bBHGlLLU&ab_channel=LahariMusic%7CT-Series",
+    "studio": "Elite Entertainments",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 25min"
+  },
+  {
+    "title": "Most Eligible Bachelor",
+    "actors": [
+      {
+        "name": "Akhil Akkineni",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/akhil-akkineni/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Pooja Hegde",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/pooja-hegde/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Murali Sharma",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/murali-sharma/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Aamani",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/aamani/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Jayprakash",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/jayaprakash/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Pragathi",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/pragathi/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Bommarillu Bhaskar" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/4B436E0D-B442-4647-9014-5D46B0B3DF37//0-3x1.jpg?width=1106",
+    "description": "Harsha Is An NRI Who Comes To India To Get Married. He Comes As A Different Person. Tables Turn, And Harsha Changes Into A Completely Different Man. What Happens In Between?",
+    "trailer": "https://www.youtube.com/watch?v=FQ5bBHGlLLU&ab_channel=LahariMusic%7CT-Series",
+    "studio": "GA2 Pictures",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 24min"
+  },
+  {
+    "title": "Krack",
+    "actors": [
+      {
+        "name": "Ravi Teja",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/ravi-teja/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Shruti Hassan",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/shruti-haasan/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "P Ravi Shankar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/p-ravi-shankar/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Varalaxmi Sarathkumar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/varalaxmi-sarathkumar/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Mouryaani",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/mouryaani/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Samuthirakani",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/samuthirakani/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Gopichand Malineni" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/FD0ED325-4244-4437-877B-73AB859A1238//0-3x1.jpg?width=1536",
+    "description": "When A Most-Wanted Terrorist, A Factionist, And A Local Goon Locks Horns With An Honest Cop Potharaju Veerashankar, Little Do They Know That Their Lives Will Be Changed Forever.",
+    "trailer": "https://www.youtube.com/watch?v=EAvpSWmoPSA&ab_channel=LahariMusic%7CT-Series",
+    "studio": "Saraswathi Films Division",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 30min"
+  },
+  {
+    "title": "Zombie Reddy",
+    "actors": [
+      {
+        "name": "Teja Sajja",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/teja-sajja/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Anandhi",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/anandhi/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Daksha Nagarkar",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/daksha-nagarkar/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "R J Hemant",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/r-j-hemant/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Getup Srinu",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/getup-srinu/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Kireeti",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/kireeti/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Prasanth Varma" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/73830D38-C02F-4B96-9E67-EA5034FA7432//0-3x1.jpg?width=992",
+    "description": "Set In The Backdrop Of Rivalry Between Two Villages In Rayalaseema, Zombie Reddy Follows A Group Of Friends Who Reunite Two Families Amid A Zombie Attack.",
+    "trailer": "https://www.youtube.com/watch?v=NHQn4AtMbns&ab_channel=AdityaMusic",
+    "studio": "Apple Tree Studios",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 2min"
+  },
+  {
+    "title": "Sulthan",
+    "actors": [
+      {
+        "name": "karthi",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/karthi/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Rashmika Mandanna",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/rashmika-mandanna/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Lal",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/lal/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Napoleon",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/napoleon/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Nawab Shah",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/nawab-shah/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Abhirami",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/abhirami/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Bakkiyaraj Kannan" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/73830D38-C02F-4B96-9E67-EA5034FA7432//0-3x1.jpg?width=992",
+    "description": "With Untimely Demise Of His Father, Sulthan Sets Off On A Mission To Reform His Father's Henchmen And Save A Village. The Rest Of The Story Uncovers His Journey Henceforth.",
+    "trailer": "https://www.youtube.com/watch?v=EWp7eDbJSCA&ab_channel=DreamWarriorPictures",
+    "studio": "Dream Warrior Pictures",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "2hr 36min"
+  },
+  {
+    "title": "Pushpaka Vimanam",
+    "actors": [
+      {
+        "name": "Anand Deverakonda",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/anand-deverakonda/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Sunil",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/sunil/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Geet Saini",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/geet-saini/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Saanvi Meghana",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/saanvi-meghana/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Naresh",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/naresh/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Harshavardhan",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/harshavardhan/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Damodara" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/5A8AAB23-17F7-4E49-A299-8D422EA8117B//0-3x1.jpg?width=1536",
+    "description": "A Staid School Teacher- Sundar’s- Commonplace And Predictable Life Spirals Into Chaos Through His Pursuit Of A Happy Marriage. A Dark Comedy Thriller That Is Also A Social Commentary On Arranged Marriages, Societal Pressures, Moral Policing, And Finding Love.",
+    "trailer": "https://www.youtube.com/watch?v=8V6m8bz-x9I&ab_channel=VijayDeverakonda",
+    "studio": "King Of The Hill Entertainments",
+    "premium": "true",
+    "age": "7+",
+    "year": "2021",
+    "time": "2hr 19min"
+  },
+  {
+    "title": "Mail",
+    "actors": [
+      {
+        "name": "Priyadarshi",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/priyadarshi/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Sunny palle",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/sunny-palle/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Gouripriya Reddy",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/gouripriya-reddy/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Harshith Malgireddy",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/harshith-malgireddy/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Mani Aegurala",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/mani-aegurala/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Yennengee",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/yennengee/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Uday Gurrala" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/543ABA39-F07B-4594-B2EB-0CDC025F5AC0//0-3x1.jpg?width=1536",
+    "description": "Fascinated By The World Of Computers And The Internet, An Innocent 18-Year-Old Ravi Feels Elated When A Fellow Villager Hybath Opens A Gaming Centre. Soon, An Email Unfurls A Series Of Unexpected Events Stirring Life-Altering Experiences.",
+    "trailer": "https://www.youtube.com/watch?v=RMccu8LFAsE&ab_channel=ahavideoIN",
+    "studio": "Swapna Cinema",
+    "premium": "true",
+    "age": "N/A",
+    "year": "2021",
+    "time": "1hr 56min"
+  },
+  {
+    "title": "Super Over",
+    "actors": [
+      {
+        "name": "Naveen Chandra",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/naveen-chandra/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Chandini Chowdary",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/chandini-chowdary/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Ajay",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/ajay/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Praveen",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/praveen/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Rakendu Mouli",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/rakendu-mouli/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Harsha Chemudu",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/harsha-chemudu/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Praveen Varma" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/FE88FDDA-88F4-4BC1-9FF7-57C091AEABA4//0-3x1.jpg?width=1536",
+    "description": "Luck Favours Kaasi And His Friends In Cricket Betting But Soon Lands Them In Inevitable Trouble. What Follows Is A Thrilling Chase With Unexpected Events And Turns.",
+    "trailer": "https://www.youtube.com/watch?v=IfxY7oieLh8&ab_channel=ahavideoIN",
+    "studio": "SAS Pictures",
+    "premium": "true",
+    "age": "7+",
+    "year": "2021",
+    "time": "1hr 23min"
+  },
+  {
+    "title": "Thank You Brother",
+    "actors": [
+      {
+        "name": "Anasuya Bharadwaj",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/anasuya-bharadwaj/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Viraj Ashwin",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/viraj-ashwin/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Mounika Reddy",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/mounika-reddy/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Anish Kuruvilla",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/anish-kuruvilla/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Harsha Chemudu",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/harsha-chemudu/0-1x1.jpg?width=143"
+      },
+      {
+        "name": "Annapoorna",
+        "img": "https://image-resizer-cloud-api.akamaized.net/image/annapoorna/0-1x1.jpg?width=143"
+      }
+    ],
+    "director": [{ "name": "Ramesh Raparthi" }],
+    "poster_url": "https://image-resizer-cloud-api.akamaized.net/image/4A651C09-9C7D-49CE-B03F-6495DC54C043//0-3x1.jpg?width=1536",
+    "description": "Thank You Brother' Is About Two Strangers, A Rich Spoilt Young Man And A Pregnant Woman Who Get Stuck In An Elevator. The Story Reaches A Twist When Her Labor Pain Begins While They Still Wait For Help To Arrive.",
+    "trailer": "https://www.youtube.com/watch?v=Uhr1aWK1Ax4&ab_channel=ahavideoIN",
+    "studio": "Just Ordinary Entertainment",
+    "premium": "true",
+    "age": "13+",
+    "year": "2021",
+    "time": "1hr 34min"
+  }
+]
