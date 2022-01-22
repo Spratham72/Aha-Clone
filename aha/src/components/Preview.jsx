@@ -3,9 +3,13 @@ import "./previewStyle.css";
 import { FaCheck } from 'react-icons/fa';
 import {BiShareAlt}from "react-icons/bi"
 import Action from "./Actions";
+import Popular from "./Popular";
+import Similar from "./Similar";
+import { Footer } from "./Footer";
 export const PreviewPage = () => {
-    const {movie_name} = useParams();
-    console.log("movie_name",movie_name)
+    let {movie_name} = useParams();
+  console.log("movie_name", movie_name)
+  movie_name=movie_name.replace("_"," ")
     return (
 <div>
 <div className="preView">
@@ -37,10 +41,18 @@ export const PreviewPage = () => {
             <button style={{ backgroundColor: "#3b4046",color:"silver",fontSize:"2em",border:"none",borderRadius:"50%",cursor:"pointer" }}><i class="fa fa-share-alt" aria-hidden="true"></i></button>
           </div> 
         </div>
-      </div>
+        </div>
+        <div style={{display:"flex",marginLeft:"1em"}}>
+          <div>
+            <p style={{fontSize:"2em"  ,color:"white"}}>Cast </p></div>
+          <div>
+            <p style={{fontSize:"2em",marginLeft:"1em" ,color:"white"}}>Details</p>
+        </div>
+        </div>
       <div>
-        <Action />
-        <Action />
+        <Similar />
+          <Popular />
+          <Footer />
       </div>
       
           
