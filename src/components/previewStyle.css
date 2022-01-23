@@ -1,0 +1,36 @@
+.preView img{
+        display: flex;
+        align-items: center;
+        background: linear-gradient(2.23deg, #000 50.39%, transparent 98.33%);
+        opacity: 0.4;
+}
+.tags{
+    display: flex;
+    position: absolute;
+    top:120px;
+    color:white
+}
+.premiumDiv p{
+    border:0.1px solid silver;
+    border-radius: 8px;
+    background-color: #2d3037;
+    padding:10px 20px 10px 20px;
+    /* height:30px; */
+    margin-left: 10px;
+    font-size: 15px;
+    box-shadow:1px 1px 1px 1px rgb(22, 22, 22);
+}
+.premiumDiv p:hover{
+    background-color: #2d3037;
+    cursor: pointer;
+}
+.details{
+    margin-left: 4.5%;
+}
+.duration{
+    position:absolute;
+    top:28%;
+    font-size:19px;
+    margin-left:1em;
+    color:silver;
+}
