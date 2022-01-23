@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Aha Clone
+**Note : This project is made just for educational purposes**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
 
-## Available Scripts
+<span>
+<div style="margin:auto; display:flex; items:center; justify-content:center">
+<span>
+<img src="https://github.com/Spratham72/ubuyClone/blob/main/images/logo-ubuy.jpg?raw=true" style="width:5%" alt="Unable To Load" style="display:inline"></img><span>
+<span style="font-Size:20px; font-weight:bold; margin-left:10px">Ubuy</span>
+</div>
+<hr></hr>
 
-In the project directory, you can run:
+## Page Details
 
-### `npm start`
+#### Homepage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ *<p style="color:purple">Home page has all the movies and contents available in categoriesed manner</p>*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ <img src="https://github.com/Spratham72/ubuyClone/blob/main/images/ubuy.PNG?raw=true"/>
 
-### `npm test`
+#### Signup and Login
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+*<p style="color:purple">User may login through varoius methods like he can login through facebook, google or he may use his mobile number where OTP will be send and user have to enter that OTP to login</p>*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ <img src="https://github.com/Spratham72/ubuyClone/blob/main/images/signin.PNG?raw=true"/>
+ 
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ 
+#### Subscription Page
 
-### `npm run eject`
+*<p style="color:purple">User may purchase the subscription of his choice in this page.</p>*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ <img src="https://github.com/Spratham72/ubuyClone/blob/main/images/wishlist.PNG?raw=true">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ #### Movie Detail
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+*<p style="color:purple">User can see the full description of the movie by simply clicking on the movie which will land him to movie description page where he may also watch the trailer.</p>*
+<img src="https://github.com/Spratham72/ubuyClone/blob/main/images/desc.PNG?raw=true">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ <h2>Tech stack used</h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ <ul>
 
-### Code Splitting
+ <li style="color:blue">React</li>
+ <li style="color:blue">CSS</li>
+ <li style="color:blue">MongoDB</li>
+ <li style="color:blue">Firebase</li>
+ </ul>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ <p style="font-weight:bold">Libraries used<p>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<h4>Contributors</h4>
 
-### Advanced Configuration
+<h5>Pratham Sharma</h5>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+[github](https://github.com/Spratham72)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+<h5>Rohit Kumar</h5>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[github](https://github.com/Rohit-0310)
+
+
+<h5>Ravi Kumar Patel</h5>
+
+
+[github](https://github.com/Ravi-Krt-Patel)
+
+
+<h5>Raman Boddula</h5>
+
+
+[github](https://github.com/raman-boddula)
