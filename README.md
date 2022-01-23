@@ -17,14 +17,14 @@ We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
 
  *<p style="color:purple">Home page has all the movies and contents available in categoriesed manner</p>*
 
- <img src="https://github.com/Spratham72/ubuyClone/blob/main/images/ubuy.PNG?raw=true"/>
+ <img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/Screenshot%20from%202022-01-23%2016-41-00.png?raw=true"/>
 
 #### Signup and Login
 
 
 *<p style="color:purple">User may login through varoius methods like he can login through facebook, google or he may use his mobile number where OTP will be send and user have to enter that OTP to login</p>*
 
- <img src="https://github.com/Spratham72/ubuyClone/blob/main/images/signin.PNG?raw=true"/>
+ <img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/Screenshot%20from%202022-01-23%2016-41-19.png?raw=true"/>
  
 <hr>
 
@@ -34,12 +34,12 @@ We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
 
 *<p style="color:purple">User may purchase the subscription of his choice in this page.</p>*
 
- <img src="https://github.com/Spratham72/ubuyClone/blob/main/images/wishlist.PNG?raw=true">
+ <img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/subscribe.png?raw=true">
 
  #### Movie Detail
 
 *<p style="color:purple">User can see the full description of the movie by simply clicking on the movie which will land him to movie description page where he may also watch the trailer.</p>*
-<img src="https://github.com/Spratham72/ubuyClone/blob/main/images/desc.PNG?raw=true">
+<img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/Screenshot%20from%202022-01-23%2016-41-41.png?raw=true">
 
 
 
