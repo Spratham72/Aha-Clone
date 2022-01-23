@@ -40,6 +40,11 @@ We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
 
 *<p style="color:purple">User can see the full description of the movie by simply clicking on the movie which will land him to movie description page where he may also watch the trailer.</p>*
 <img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/Screenshot%20from%202022-01-23%2016-41-41.png?raw=true">
+ 
+  #### Trailor
+
+*<p style="color:purple">User can see the trailor of movie by clicking on the button provided on movie detail page.</p>*
+<img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/video_player.png?raw=true">
 
 
 
