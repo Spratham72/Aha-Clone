@@ -1,4 +1,4 @@
-# Ubuy clone
+# Aha Clone
 **Note : This project is made just for educational purposes**
 
 We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
