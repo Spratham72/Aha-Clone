@@ -5,13 +5,13 @@ export const Subscribe = () => {
       <>
       <div >
       <div >
-      <Navbar />
+      {/* <Navbar /> */}
       </div>
     
     <div >
         <div style={{height:"100px"}}></div>
         
-      <h3 style={{color:"#fff"}}> Choose a Plan</h3>
+      <h3 style={{color:"#fff",textAlign:"center",fontSize:"2em"}}> Choose a Plan</h3>
       
      <div className="plan" >
      

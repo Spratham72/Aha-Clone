@@ -31,7 +31,7 @@ window.recaptchaVerifier = new RecaptchaVerifier('sign-in-button', {
   'callback': (response) => {
    
     onSignInSubmit();
-    console.log("Captcha Verified")
+    console.log("Captcha Verified :" +response)
   }
 }, auth);}
 var count=0;
@@ -168,11 +168,12 @@ const onSignInSubmit=()=>{
                   </div>
                       
                     )}
+                  autoLoad={false}
                     buttonText="Sign In"
                     onSuccess={onLoginSuccess}
                     onFailure={onLoginFailure}
                     cookiePolicy={'single_host_origin'}
-                    isSignedIn={true}
+                    isSignedIn={false}
                 /> : null}
             { showlogoutButton ?
                 <GoogleLogout

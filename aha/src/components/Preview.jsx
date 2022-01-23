@@ -85,7 +85,7 @@ export const PreviewPage = () => {
               data[0].director.map((el) => {
                 return (
                   <h1>
-                   Direcor : {el.name}
+                   Director : {el.name}
                     </h1>
                 )
               })

@@ -1,20 +1,25 @@
 import { useEffect, useState } from "react"
 import { Link } from "react-router-dom"
-import {GoogleLogout} from 'react-google-login';
+
 import './navbar.css'
-const clientId = "48145435660-gsp4inkbiebdeadn4af36dmrd7ecbe3u.apps.googleusercontent.com";
+
 export const Navbar=()=>{
-    const[sign,setSign]=useState(false);
+    const [sign, setSign] = useState(false);
     useEffect(()=>{
         if(localStorage.getItem("user")!==null){
             setSign(true);
-        }
+        };
+       setSign(true) 
     },[])
-    const onSignoutSuccess = () => {
+    const handleSingout = () => {
         localStorage.removeItem("user");
-        alert("You have been logged out successfully");
-        console.clear();
-    };
+        setSign(false);
+    }
+    const handleSignin = () => {
+        setTimeout(() => {
+            setSign(!sign);
+        },15000)
+    }
     return <><div className="nav">
         <div className="left">
         <Link to="/"><img className="logo" src="https://www.aha.video/aha-logo.db810aeaa42b356a86a7.png" alt="logo" /></Link>
@@ -30,14 +35,10 @@ export const Navbar=()=>{
         <img src="https://www.aha.video/language-icon.ef88ebcc6b1bcda97fc4.svg" style={{marginLeft:"2%"}} width={"1.5%"} alt=""  className="langugageIcon"/>
         
         <div className="right">
-        <Link to="/subscribe"><button className="subscribe">Subscribe Now</button></Link>
-        <Link to="/login"><div className="signin"><img src="https://www.aha.video/assets/icons/svg/avatar_profile.svg" alt="user"/> {!sign?<p>Sign In</p>: <GoogleLogout
-                ClientId={clientId}
-                    buttonText="Log out"
-                    onLogoutSuccess={onSignoutSuccess}
-                    icon={false}
-                >
-                </GoogleLogout>}</div></Link>
+        <Link to="/subscribe"><button  style={{marginLeft: "2em"}} className="subscribe">Subscribe Now</button></Link>
+            <div style={{marginLeft: "2em"}} className="signin"><img src="https://www.aha.video/assets/icons/svg/avatar_profile.svg" alt="user" /> {!sign ?<Link to ={"/login"}> <p onClick={handleSignin} >Sign In</p> </Link>: <p onClick={handleSingout} style={{color:"white"}}>Logout</p>}
+                
+                </div>
         </div>
         
     </div>
