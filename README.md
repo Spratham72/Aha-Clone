@@ -6,8 +6,8 @@ We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
 <span>
 <div style="margin:auto; display:flex; items:center; justify-content:center">
 <span>
-<img src="https://github.com/Spratham72/ubuyClone/blob/main/images/logo-ubuy.jpg?raw=true" style="width:5%" alt="Unable To Load" style="display:inline"></img><span>
-<span style="font-Size:20px; font-weight:bold; margin-left:10px">Ubuy</span>
+<img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/logo.jpg?raw=true" style="width:5%" alt="Unable To Load" style="display:inline"></img><span>
+<span style="font-Size:20px; font-weight:bold; margin-left:10px">Aha</span>
 </div>
 <hr></hr>
 
