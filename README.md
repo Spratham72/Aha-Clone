@@ -6,7 +6,10 @@ We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
 <span>
 <div style="margin:auto; display:flex; items:center; justify-content:center">
 <span>
-<img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/logo.jpg?raw=true" style="width:5%" alt="Unable To Load" style="display:inline"></img><span>
+ <a href="https://aha-rohit-0310.vercel.app/" target="blank">
+<img src="https://github.com/Spratham72/Aha-Clone/blob/main/public/Screenshots/logo.jpg?raw=true" style="width:5%" alt="Unable To Load" style="display:inline"/>
+ </a>
+ <span>
 <span style="font-Size:20px; font-weight:bold; margin-left:10px">Aha</span>
 </div>
 <hr></hr>
